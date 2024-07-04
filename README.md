@@ -11,3 +11,5 @@ This project is a clone of the Spotify website created using HTML and CSS. It ai
 ## Technologies Used
 - HTML: For creating the structure of web pages
 - CSS: For styling and organizing content
+## Images of the clone website
+![Spotify Clone](https://github.com/NiharikaSaxena18/Spotify-Clone/assets/145530524/e578ee7d-e72a-470e-887d-058bff7edb45)
